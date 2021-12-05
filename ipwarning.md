@@ -7,4 +7,5 @@
 </section>
 -->
 > [Yes](https://ip.osk.sh/)
-> [No](https://lintine.github.io/newtab/index/)
+
+> [No](https://lintine.github.io/newtab/)
