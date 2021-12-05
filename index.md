@@ -2,7 +2,7 @@
 <!--
 <section class="page-header">
       <a href="https://duckduckgo.com" class="btn">Search</a>
-      <a href="https://" class="btn">osk's IP Display</a>
+      <a href="https://lintine.github.io/newtab/ipwarning" class="btn">osk's IP Display</a>
 </section>
 -->
 > [Search](https://duckduckgo.com)
